@@ -19,6 +19,8 @@ RUN apk --no-cache add \
       groff \
       less \
       curl \
+      git \
+      ssh \
       jq \
       py-pip \
       python \
