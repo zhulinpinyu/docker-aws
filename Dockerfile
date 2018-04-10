@@ -20,7 +20,6 @@ RUN apk --no-cache add \
       less \
       curl \
       git \
-      ssh \
       jq \
       py-pip \
       python \
